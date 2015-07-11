@@ -21,8 +21,11 @@ With any luck, you should now be able to use "Next" and "Back" buttons via notif
 ## Screenshots
 
 ![Wear Notification](http://i.imgur.com/wn0Mn1y.png)
+
 ![Next](http://i.imgur.com/oTN2T5W.png)
+
 ![Back](http://i.imgur.com/Ajdabc4.png)
+
 ![Mobile app](http://i.imgur.com/rwMUwh5.png)
 
 
