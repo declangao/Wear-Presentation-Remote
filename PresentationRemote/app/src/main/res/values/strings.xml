@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Presentation Remote</string>
+
+    <string name="label">Enter your desktop IP address: </string>
+    <string name="action_settings">Settings</string>
+    <string name="connection_failed_msg">Connection failed. Please check your IP address.</string>
+    <string name="retry">Retry</string>
+    <string name="connection_succeeded_msg">Connected! Now you can use your watch to control the presentation.</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="notif_text">What do you want me to do?</string>
+</resources>
